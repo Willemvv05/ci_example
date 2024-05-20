@@ -7,4 +7,4 @@ class TestCase(unittest.TestCase):
         self.assertEqual(task.my_func(), expected)
 
 if __name__ == '__main__':
-unittest.main()
+    unittest.main()
